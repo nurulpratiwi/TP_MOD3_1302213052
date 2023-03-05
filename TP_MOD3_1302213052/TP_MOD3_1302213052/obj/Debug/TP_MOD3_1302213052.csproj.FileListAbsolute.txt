@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\bin\Debug\TP_MOD3_1302213052.exe.config
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\bin\Debug\TP_MOD3_1302213052.exe
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\bin\Debug\TP_MOD3_1302213052.pdb
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\obj\Debug\TP_MOD3_1302213052.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\obj\Debug\TP_MOD3_1302213052.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\obj\Debug\TP_MOD3_1302213052.Form1.resources
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\obj\Debug\TP_MOD3_1302213052.Properties.Resources.resources
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\obj\Debug\TP_MOD3_1302213052.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\obj\Debug\TP_MOD3_1302213052.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\obj\Debug\TP_MOD3_1302213052.exe
+C:\Users\Asus\source\repos\TP_MOD3_1302213052\TP_MOD3_1302213052\obj\Debug\TP_MOD3_1302213052.pdb

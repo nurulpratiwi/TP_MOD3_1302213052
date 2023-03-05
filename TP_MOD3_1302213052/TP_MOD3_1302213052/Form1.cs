@@ -16,5 +16,22 @@ namespace TP_MOD3_1302213052
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            String Masukkan = textBox1.Text;
+            string Keluaran = "Hello " + Masukkan;
+            label1.Text = Keluaran;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
